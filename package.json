@@ -1,0 +1,15 @@
+{
+  "name": "ghact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "moment": "^2.29.1"
+  }
+}
